@@ -2,15 +2,15 @@
 
 body {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
-    font-size: 15px;
-    line-height: 21px;
+    font-size: 12px;
+    line-height: 14px;
     color: rgb(48, 48, 48);
     border-top: 5px solid #27a822;
     border-bottom: 5px solid #27A822;
 }
 
 .container {
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 a {
@@ -123,8 +123,8 @@ em {
     }
 
     body {
-        font-size: 14pt;
-        line-height: 21pt;
+        font-size: 12pt;
+        line-height: 16pt;
     }
 
     .container > header {
