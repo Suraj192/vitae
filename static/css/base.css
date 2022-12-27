@@ -116,8 +116,8 @@
 	ul ul li, ul ol li,
 	ol ol li, ol ul li { margin-bottom: 6px; }
 	li { line-height: 12px; margin-bottom: 5px; }
-	ul.large li { line-height: 21px; }
-	li p { line-height: 21px; }
+	ul.large li { line-height: 16px; }
+	li p { line-height: 16px; }
 
 /* #Images
 ================================================== */
@@ -155,7 +155,7 @@
 	  text-decoration: none;
 	  text-shadow: 0 1px rgba(255, 255, 255, .75);
 	  cursor: pointer;
-	  margin-bottom: 20px;
+	  margin-bottom: 10px;
 	  line-height: normal;
 	  padding: 8px 10px;
 	  font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; }
